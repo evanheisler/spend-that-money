@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spend-that-money/static/css/main.ea861131.chunk.css",
+    "main.js": "/spend-that-money/static/js/main.6711ec20.chunk.js",
+    "main.js.map": "/spend-that-money/static/js/main.6711ec20.chunk.js.map",
+    "runtime~main.js": "/spend-that-money/static/js/runtime~main.e0b2dd84.js",
+    "runtime~main.js.map": "/spend-that-money/static/js/runtime~main.e0b2dd84.js.map",
+    "static/js/2.0c62b50e.chunk.js": "/spend-that-money/static/js/2.0c62b50e.chunk.js",
+    "static/js/2.0c62b50e.chunk.js.map": "/spend-that-money/static/js/2.0c62b50e.chunk.js.map",
+    "index.html": "/spend-that-money/index.html",
+    "precache-manifest.b556682a4d36f1b46cd1d4d5750c13d4.js": "/spend-that-money/precache-manifest.b556682a4d36f1b46cd1d4d5750c13d4.js",
+    "service-worker.js": "/spend-that-money/service-worker.js",
+    "static/css/main.ea861131.chunk.css.map": "/spend-that-money/static/css/main.ea861131.chunk.css.map"
+  }
+}
